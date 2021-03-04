@@ -1,0 +1,1 @@
+data:text/html,<script>a="abcdefghijkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ23456789-+%!()=/";x=new%20Uint8Array(20);window.crypto.getRandomValues(x);p="";x.forEach(function(t){p+=a[t%%2064]});document.write(p);</script>
